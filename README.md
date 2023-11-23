@@ -25,9 +25,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/tu_usuario" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram logo" width="52" height="40"></a>
-  <a href="https://www.youtube.com/channel/UCrlNloNANiYehFAB6riALrQ" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="YouTube logo" width="52" height="40"></a>
+  <a href="https://www.instagram.com/tu_usuario" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram logo" width="52" height="40"></a><a href="https://www.youtube.com/channel/UCrlNloNANiYehFAB6riALrQ" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="YouTube logo" width="52" height="40"></a>
 </div>
+
 
 ###
 
