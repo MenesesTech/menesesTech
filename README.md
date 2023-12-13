@@ -9,4 +9,4 @@ Mi viaje en el mundo de la tecnología comenzó como una pasión que se encendi�
 
 ## Contáctame
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frey-endrick-meneses-tineo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahomivillanueva2@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menesesfrey@gmail.com)
