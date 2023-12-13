@@ -1,4 +1,4 @@
-# Hola! Soy Frey 🙋🏻‍♀️ Full Stack Developer Jr.
+# Hola! Soy Frey 🙋‍♂️ Full Stack Developer Jr.
 
 ## Sobre mí:
 "Soy una Full Stack Developer Jr.
