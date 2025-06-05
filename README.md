@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">¡Hola Mundo! Yo soy <a href="https://freymeneses.com">Frey Meneses</a> 👋</h1>
+  <h1 align="center">¡Hola Manano! Yo soy <a href="https://freymeneses.com">Frey Meneses</a> 👋</h1>
 </div>
 
 <img src="https://imgur.com/S9MOI5p.png" alt="Banner Personal" />
